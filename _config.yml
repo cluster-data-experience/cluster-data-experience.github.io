@@ -1,8 +1,7 @@
 # Site Settings
 name: QlikFront
 title: QlikFront | Qlik Sense web development tips and tricks 
-description: A blog for web developers / Qlik Sense Developers creating mashups, web apps and Qlik extensions. Made by
-  Thomas Pessato.
+description: A blog for web developers / Qlik Sense Developers creating mashups, web apps and Qlik extensions.
 tags:
   - qlik
   - qliksense
@@ -30,9 +29,9 @@ disqus_username: disqus_username
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: thomaspessato
-twitter_username: thomaspessato_
-linkedin_username: thomas-pessato-14500056
+github_username: cluster-data-experience
+# twitter_username: thomaspessato_
+linkedin_username: company/cluster---design-e-visualização-de-dados-para-qlikview
 
 
 # Posts Settings

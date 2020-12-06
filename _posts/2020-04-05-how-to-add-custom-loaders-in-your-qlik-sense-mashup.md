@@ -44,10 +44,6 @@ After choosing one, click on the “Source” button at the top of the page and 
 
 With the copied HTML, we can now create our Loader component, which will look something like this:
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
 ```js
 class Loader extends React.Component {
 	constructor(props) {
